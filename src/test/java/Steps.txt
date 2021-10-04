@@ -1,0 +1,22 @@
+1)BasicText.java
+2) BasicResponseHeader.java
+3) ValidatableResponse.java
+4) BasicResponseBody.java
+5) ValidatableResponse_Body.java
+6) NestedBodyValidation.java
+7) DefualtParser.java
+8) hamcrestExample.java
+9) ObjectMapping.java
+10)ObjectMapping.java
+11)HeadAndDemoOptions.java
+12)OtherHttpMethodsDemo.java
+13)CustomRequestDemo.java
+14)GlobalVariableDemo.java
+15)ConfigDemo.java
+16)ConfigDemo1.java
+17)ConfigDemo2.java
+18)ConfigFactory.java
+19)RequestSpecification.java
+20)ResponseSpecification.java
+21)LoggingDemo.java
+22)StatusCodeConstant.java
